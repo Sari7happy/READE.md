@@ -4,10 +4,9 @@
  | key | value |
  | :--- | :---: |
  | 名前 |sarina tanaka|
- | 出身 | Nagasaki Prefecture|
+ | 出身 | Hiroshima Prefecture|
  | 前職 | 航空会社|
  
- |資格一覧|
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sari7happy&theme=vue)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sari7happy&theme=vue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sari7happy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
